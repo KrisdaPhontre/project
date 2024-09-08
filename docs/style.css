@@ -3,13 +3,16 @@
   margin: 0;
 }
 body {
-  background-image: url(./piano_keys_macro_181978_1920x1080.jpg);
+  background-image: url(../img/download.gif);
+  background-size: 1920px,1080px;
+  background-position-x: 100px;
 }
+header{
+  background-color: aqua;
+  height: 50px;
+}
+header H1{
 
-.box-left {
-  background-color: rgb(117, 117, 117);
-  height: 1000px;
-  width: 150px;
 }
 .item {
   background-color: rgb(78, 78, 78);
